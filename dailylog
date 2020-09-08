@@ -1,23 +1,33 @@
+DAY 2:
+
+Implement:
+1) Merge Sort
+2) Heap Sort
+3) Min Heap Construction
+
+Leetcode:
+1) Q349 - Intersection of 2 arrays
+2) Q1213 - Intersection of 3 Sorted Arrays
+3) Q88 - Merge Sorted Arrays
+4) Q215 - Kth Largest Element in Array
+5) Q973 - K Closest Points to Origin
+6) Q347 - Top K Frequent Elements
+7) Q703 - Kth Largest Element in a Stream
+8) Q295 - Find Median from Data Stream
+9) Sort array by parity
+10) 3 Sum
+11) Lexicographical Order
+
+------------------------------------------------------------------------
 DAY 1: 
 
 Implement:
 1) Selection Sort
 2) Insertion Sort
-3) Merge Sort
-4) Quick Sort
-5) Heap Sort
-6) Basic Binary Search
-7) Min Heap Construction
+3) Quick Sort
+4) Basic Binary Search
 
 LeetCode:
 1) Q1 - Two Sum
 2) Q167 - Two Sum II
 3) Q252 - Meeting Rooms
-4) Q349 - Intersection of 2 arrays
-5) Q1213 - Intersection of 3 Sorted Arrays
-6) Q88 - Merge Sorted Arrays
-7) Q215 - Kth Largest Element in Array
-8) Q973 - K Closest Points to Origin
-9) Q347 - Top K Frequent Elements
-10) Q703 - Kth Largest Element in a Stream
-11) Q295 - Find Median from Data Stream

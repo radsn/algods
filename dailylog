@@ -8,8 +8,8 @@ Leetcode:
 1) Q973 - K Closest Points to Origin
 2) Q347 - Top K Frequent Elements
 3) Q295 - Find Median from Data Stream
-4) Lexicographical Order
-5) Merge K sorted arrays
+4) Q23 - Merge K sorted arrays
+5) Lexicographical Order
 Do sorting 5 more easy problems
 
 ------------------------------------------------------------------------
@@ -24,9 +24,10 @@ Leetcode:
 3) Q88 - Merge Sorted Arrays
 4) Q215 - Kth Largest Element in Array
 5) Q703 - Kth Largest Element in a Stream
-6) Sort array by parity
-7) 3 Sum
-Do sorting 5-10 more easy problems 
+6) Q905 - Sort by parity
+7) Q15 - 3 Sum
+8) Q26 - remove duplicates from sorted array
+9) Q1046 - last stone weight
 
 ------------------------------------------------------------------------
 DAY 1: 

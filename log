@@ -1,3 +1,5 @@
+
+
 hard:
 2) TopK in stream
 1) Merge K sorted arrays
@@ -23,7 +25,7 @@ easy:
 13) Q1089  Duplicate Zeros
 12) Q20    Valid Parentheses
 11) Q937   Reorder Data in Log Files  
-10) Q703   Kth Largest Element in a Stream
+10) Q703   kth Largest Element in a Stream
 9)  Q1046  Last stone weight
 8)  Q1213  Intersection of 3 Sorted Arrays
 7)  Q88    Merge Sorted Arrays
@@ -36,9 +38,9 @@ easy:
 
 
 Implement:
-1) Selection Sort
-2) Insertion Sort
-3) Quick Sort
-4) Basic Binary Search
+6) Binary Search
 5) Merge Sort
-
+4) Quick Sort
+3) Insertion Sort
+2) Bubble Sort
+1) Selection Sort

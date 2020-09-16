@@ -19,21 +19,23 @@ medium:
 
 
 easy:
-12) Q20    Valid Parentheses
-11) Q937   Reorder Data in Log Files  
-10) Q703   kth Largest Element in a Stream
-9)  Q1046  Last stone weight
-8)  Q1213  Intersection of 3 Sorted Arrays
-7)  Q88    Merge Sorted Arrays
-6)  Q349   Intersection of 2 Sorted Arrays
-5)  Q905   Sort by parity
-4)  Q26    Remove duplicates from sorted array
+11) Q20    Valid Parentheses
+10) Q937   Reorder Data in Log Files  
+9)  Q703   kth Largest Element in a Stream
+8)  Q1046  Last stone weight
+7)  Q1213  Intersection of 3 Sorted Arrays
+6)  Q88    Merge Sorted Arrays
+5)  Q349   Intersection of 2 Sorted Arrays
+4)  Q905   Sort by parity
 3)  Q252   Meeting Rooms
 2)  Q167   Two Sum II
 1)  Q1     Two Sum
 
 
 Explore:
+8) Q941   Valid Mountain Array
+7) Q1346  Check if N and its Double Exist
+6) Q26    Remove duplicates from sorted array
 5) Q27    Remove Element
 4) Q1089  Duplicate Zeros
 3) Q977   Squares of Sorted Array

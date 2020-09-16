@@ -19,10 +19,6 @@ medium:
 
 
 easy:
-16) Q977   Squares of Sorted Array
-15) Q485   Max Consecutive Ones
-14) Q1295  Find Numbers with Even Number of Digits
-13) Q1089  Duplicate Zeros
 12) Q20    Valid Parentheses
 11) Q937   Reorder Data in Log Files  
 10) Q703   kth Largest Element in a Stream
@@ -35,6 +31,14 @@ easy:
 3)  Q252   Meeting Rooms
 2)  Q167   Two Sum II
 1)  Q1     Two Sum
+
+
+Explore:
+5) Q27    Remove Element
+4) Q1089  Duplicate Zeros
+3) Q977   Squares of Sorted Array
+2) Q1295  Find Numbers with Even Number of Digits
+1) Q485   Max Consecutive Ones
 
 
 Implement:

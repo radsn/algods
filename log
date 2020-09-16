@@ -1,0 +1,44 @@
+hard:
+2) TopK in stream
+1) Merge K sorted arrays
+
+
+medium:
+10) Q90    Subsets II
+9)  Q78    Subsets
+8)  Q47    Permutations II
+7)  Q46    Permutations
+6)  Q784   Letter Case Permutation 
+5)  Q707   Design Singly Linked List
+4)  Q973   K Closest Points to Origin
+3)  Q215   Kth Largest Element in Array
+2)  Q75    Sort colors
+1)  Q15    3Sum
+
+
+easy:
+16) Q977   Squares of Sorted Array
+15) Q485   Max Consecutive Ones
+14) Q1295  Find Numbers with Even Number of Digits
+13) Q1089  Duplicate Zeros
+12) Q20    Valid Parentheses
+11) Q937   Reorder Data in Log Files  
+10) Q703   Kth Largest Element in a Stream
+9)  Q1046  Last stone weight
+8)  Q1213  Intersection of 3 Sorted Arrays
+7)  Q88    Merge Sorted Arrays
+6)  Q349   Intersection of 2 Sorted Arrays
+5)  Q905   Sort by parity
+4)  Q26    Remove duplicates from sorted array
+3)  Q252   Meeting Rooms
+2)  Q167   Two Sum II
+1)  Q1     Two Sum
+
+
+Implement:
+1) Selection Sort
+2) Insertion Sort
+3) Quick Sort
+4) Basic Binary Search
+5) Merge Sort
+

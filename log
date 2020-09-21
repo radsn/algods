@@ -5,17 +5,19 @@ hard:
 1) Merge K sorted arrays
 
 
-medium:
-14) Q40    Combination Sum II
-13) Q39    Combination Sum
-12) Q77    Combinations
-11) Q17    Letters Combinations of Phone Number
-10) Q90    Subsets II
-9)  Q78    Subsets
-8)  Q47    Permutations II
-7)  Q46    Permutations
-6)  Q784   Letter Case Permutation 
-5)  Q707   Design Singly Linked List
+medium: 
+16) Q113   Path Sum II
+15) Q199   BT Right Side View
+14) Q103   BT Zigzag Level Order Traversal
+13) Q40    Combination Sum II
+12) Q39    Combination Sum
+11) Q77    Combinations
+10) Q17    Letters Combinations of Phone Number
+9)  Q90    Subsets II
+8)  Q78    Subsets
+7)  Q47    Permutations II
+6)  Q46    Permutations
+5)  Q784   Letter Case Permutation 
 4)  Q973   K Closest Points to Origin
 3)  Q215   Kth Largest Element in Array
 2)  Q75    Sort colors
@@ -23,8 +25,13 @@ medium:
 
 
 easy:
+16) Q637   Average of Levels in BT
+15) Q543   Diameter of BT
+14) Q429   Nary Tree Level Order Traversal
+13) Q108   Convert Sorted Array to BST
+12) Q107   BT Level Order Traversal II
 11) Q20    Valid Parentheses
-10) Q937   Reorder Data in Log Files  
+10) Q937   Reorder Data in Log Files
 9)  Q703   kth Largest Element in a Stream
 8)  Q1046  Last stone weight
 7)  Q1213  Intersection of 3 Sorted Arrays
@@ -37,6 +44,14 @@ easy:
 
 
 Explore:
+4) Q112   Path Sum
+4) Q101
+3) Q104   
+2) Q144,94,145 DFS Traversal
+1) Q102   BT Level Order Traversal
+
+1) Q707   Design Singly Linked List
+
 8) Q941   Valid Mountain Array
 7) Q1346  Check if N and its Double Exist
 6) Q26    Remove duplicates from sorted array
